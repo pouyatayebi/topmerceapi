@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "description": "A Strapi application",
     "engines": {
-    "node": "14.x"
+    "node": "12.x"
   },
   "scripts": {
     "develop": "strapi develop",
